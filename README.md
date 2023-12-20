@@ -11,4 +11,4 @@ Neste projeto, faremos uma análise exploratória da base de dados "Hr_Analytics
   - 8 Quais são os diferentes níveis de educação e quantos funcionários possuem cada nível ?
 
 ## Link da base: 
-  -https://www.kaggle.com/datasets/anshika2301/hr-analytics-dataset
+  - https://www.kaggle.com/datasets/anshika2301/hr-analytics-dataset
